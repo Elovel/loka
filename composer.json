@@ -1,0 +1,20 @@
+{
+    "name": "Elovel/loka",
+    "description": "Project description",
+    "type": "project",
+    "require": {
+        "danog/madelineproto": "^7"
+    },
+    "license": "AGPL-3.0-only",
+    "authors": [
+        {
+            "name": "HrLot",
+            "email": "Hamiddrgz2@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Your\\Project\\": "src/"
+        }
+    }
+}
